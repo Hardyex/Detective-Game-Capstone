@@ -1,6 +1,7 @@
 # Detective-Game-Capstone
 2D Detective Adventure Game
 
+```mermaid
 graph LR
     Root[Detective-Game-Capstone] --> Assets[2D_Detective_Game/Assets]
     Assets --> ProjectFolder[_Project]

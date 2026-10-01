@@ -2,6 +2,7 @@
 2D Detective Adventure Game
 
 
+```mermaid
 graph TD
     Root[Detective-Game-Capstone] --> Assets[2D_Detective_Game/Assets]
     Assets --> ProjectFolder[_Project]

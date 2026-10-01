@@ -3,7 +3,7 @@
 
 
 graph TD
-    Root[Detective-Game-Capstone] --> Assets[Assets]
+    Root[Detective-Game-Capstone] --> Assets[2D_Detective_Game/Assets]
     Assets --> ProjectFolder[_Project]
     
     ProjectFolder --> Art[Art]
